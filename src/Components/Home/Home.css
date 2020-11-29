@@ -1,0 +1,14 @@
+.home-container{
+    background-image: linear-gradient(#ffffff, #fcf4a0);
+    overflow: hidden;
+    padding: 2px 20px;
+}
+@media only screen and (max-width:650px) {
+    .trophy-img{
+        height: 370px;
+    }
+    .trophy-section{
+        display: flex;
+        justify-content: center;
+    }
+}
